@@ -1,2 +1,2 @@
 # NLP_python
-Analyse sentimentale des tweets
+SCrapping des tweets, sauvegarde dans mongoDB et analyse sentimentale (NLP) .
