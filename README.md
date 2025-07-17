@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Cover.png" alt="Analyse NLP sur la discrimination raciale" width="80%">
+  <img src="Cover.png" alt="Analyse NLP sur la discrimination raciale" width="50%">
 </p>
 
 # 🧠 Analyse NLP sur la discrimination raciale via Twitter
